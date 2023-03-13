@@ -1,0 +1,2 @@
+#!/bin/bash
+cat 0-hello_world|sort|uniq|pr|1pr
